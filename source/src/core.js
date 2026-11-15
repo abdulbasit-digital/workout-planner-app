@@ -1,6 +1,6 @@
 'use strict';
 /* ===== Workout Planner & Fitness Tracker — core runtime ===== */
-const APP_ID='workout-planner-fitness-tracker', APP_VERSION='1.1.1';
+const APP_ID='workout-planner-fitness-tracker', APP_VERSION='1.1.2';
 
 /* ---------- tiny utils ---------- */
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>Array.from(r.querySelectorAll(s));
